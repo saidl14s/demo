@@ -14,7 +14,7 @@
         {
             "id": 2,
             "nombre": "Arroz glutinoso al vapor",
-            "descripcion": "El arroz glutinoso (también llamado arroz dulce) es muy utilizado en distintos países asiáticos para cocinar platos salados y platos dulces. Tiene un altísimo contenido en almidón que lo hace extremadamente pegajoso, cualidad que se usa en la cocina para hacer platos especiales. Si queremos hacer un arroz "blanco" glutinoso, no podremos cocerlo como haríamos con otro arroz, dado que se quedaría hecho una pasta. La solución es hacerlo al vapor.",
+            "descripcion": "El arroz glutinoso (también llamado arroz dulce) es muy utilizado en distintos países asiáticos para cocinar platos salados y platos dulces. Tiene un altísimo contenido en almidón que lo hace extremadamente pegajoso, cualidad que se usa en la cocina para hacer platos especiales. Si queremos hacer un arroz blanco glutinoso, no podremos cocerlo como haríamos con otro arroz, dado que se quedaría hecho una pasta. La solución es hacerlo al vapor.",
             "preparacion": 23,
             "porcion": 3,
             "porcion_tipo": "persona",
