@@ -1,38 +1,41 @@
-[
-    {
-        "id": 1,
-        "nombre": "Arroz",
-        "unidad": "gramo",
-        "caducidad": 40,
-        "created_at": "2019-07-14 02:35:00",
-        "updated_at": "2019-07-14 02:35:00",
-        "clasificacion_id": 1
-    },
-    {
-        "id": 2,
-        "nombre": "Leche",
-        "unidad": "litro",
-        "caducidad": 7,
-        "created_at": "2019-07-14 18:49:29",
-        "updated_at": "2019-07-14 18:49:29",
-        "clasificacion_id": 1
-    },
-    {
-        "id": 3,
-        "nombre": "Agua",
-        "unidad": "litro",
-        "caducidad": 1000,
-        "created_at": "2019-07-14 18:49:29",
-        "updated_at": "2019-07-14 18:49:29",
-        "clasificacion_id": 1
-    },
-    {
-        "id": 4,
-        "nombre": "Pimienta",
-        "unidad": "litro",
-        "caducidad": 1000,
-        "created_at": "2019-07-14 18:49:29",
-        "updated_at": "2019-07-14 18:49:29",
-        "clasificacion_id": 1
-    }
-]
+{
+    "posts": [
+        {
+            "id": 1,
+            "nombre": "Arroz",
+            "unidad": "gramo",
+            "caducidad": 40,
+            "created_at": "2019-07-14 02:35:00",
+            "updated_at": "2019-07-14 02:35:00",
+            "clasificacion_id": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Leche",
+            "unidad": "litro",
+            "caducidad": 7,
+            "created_at": "2019-07-14 18:49:29",
+            "updated_at": "2019-07-14 18:49:29",
+            "clasificacion_id": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Agua",
+            "unidad": "litro",
+            "caducidad": 1000,
+            "created_at": "2019-07-14 18:49:29",
+            "updated_at": "2019-07-14 18:49:29",
+            "clasificacion_id": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Pimienta",
+            "unidad": "litro",
+            "caducidad": 1000,
+            "created_at": "2019-07-14 18:49:29",
+            "updated_at": "2019-07-14 18:49:29",
+            "clasificacion_id": 1
+        }
+    ]
+    
+}
