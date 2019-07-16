@@ -1,4 +1,28 @@
 {
+    "platillos:[
+        {
+            "id": 1,
+            "nombre": "Arroz jambalaya",
+            "descripcion": "Este plato sería para los criollos americanos lo que la paella es para los españoles. Es claramente un plato emblemático de la cocina del estado de Luisiana y de su capital Nueva Orleans. Muy sabroso, con un toque picante, pero una delicia para todas las edades. La mayor dificultad es encontrar la salchicha ahumada típica de allí, que es picante. Pero si no la encontramos, cualquier otra salchicha ahumada nos puede servir.",
+            "preparacion": 30,
+            "porcion": 4,
+            "porcion_tipo": "persona",
+            "instrucciones": "{}",
+            "created_at": "2019-07-14 02:38:12",
+            "updated_at": "2019-07-14 02:38:12"
+        },
+        {
+            "id": 2,
+            "nombre": "Arroz glutinoso al vapor",
+            "descripcion": "El arroz glutinoso (también llamado arroz dulce) es muy utilizado en distintos países asiáticos para cocinar platos salados y platos dulces. Tiene un altísimo contenido en almidón que lo hace extremadamente pegajoso, cualidad que se usa en la cocina para hacer platos especiales. Si queremos hacer un arroz "blanco" glutinoso, no podremos cocerlo como haríamos con otro arroz, dado que se quedaría hecho una pasta. La solución es hacerlo al vapor.",
+            "preparacion": 23,
+            "porcion": 3,
+            "porcion_tipo": "persona",
+            "instrucciones": "{}",
+            "created_at": "2019-07-15 04:38:12",
+            "updated_at": "2019-07-15 04:38:12"
+        }
+    ],
     "ingredientes": [
         {
             "id": 1,
