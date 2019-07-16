@@ -1,5 +1,6 @@
 {
-	"platillos": [{
+	"platillos": [
+		{
 			"id": 1,
 			"nombre": "Arroz jambalaya",
 			"descripcion": "Este plato sería para los criollos americanos lo que la paella es para los españoles. Es claramente un plato emblemático de la cocina del estado de Luisiana y de su capital Nueva Orleans. Muy sabroso, con un toque picante, pero una delicia para todas las edades. La mayor dificultad es encontrar la salchicha ahumada típica de allí, que es picante. Pero si no la encontramos, cualquier otra salchicha ahumada nos puede servir.",
@@ -22,7 +23,8 @@
 			"updated_at": "2019-07-15 04:38:12"
 		}
 	],
-	"ingredientes": [{
+	"ingredientes": [
+		{
 			"id": 1,
 			"nombre": "Arroz",
 			"unidad": "gramo",
