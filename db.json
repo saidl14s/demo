@@ -1,10 +1,10 @@
 {
-	"response": [
-		{
-			
-			"responseCode": "APPROVED",
-			"created_at": "2019-07-14 02:38:12",
-			"updated_at": "2019-07-14 02:38:12"
-		}
-	]
+	"response": 
+	{
+
+		"responseCode": "APPROVED",
+		"created_at": "2019-07-14 02:38:12",
+		"updated_at": "2019-07-14 02:38:12"
+	}
+	
 }
